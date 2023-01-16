@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{361AEA9B-EA7C-4896-B941-97B0AA64A5F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grama_Tudor_Ionut_Lab11", "Grama_Tudor_Ionut_Lab11\Grama_Tudor_Ionut_Lab11.csproj", "{ADAB3872-2538-4242-8AF3-72358FE75F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361AEA9B-EA7C-4896-B941-97B0AA64A5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361AEA9B-EA7C-4896-B941-97B0AA64A5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361AEA9B-EA7C-4896-B941-97B0AA64A5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361AEA9B-EA7C-4896-B941-97B0AA64A5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAB3872-2538-4242-8AF3-72358FE75F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAB3872-2538-4242-8AF3-72358FE75F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAB3872-2538-4242-8AF3-72358FE75F7D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADAB3872-2538-4242-8AF3-72358FE75F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAB3872-2538-4242-8AF3-72358FE75F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAB3872-2538-4242-8AF3-72358FE75F7D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DFF86B4-FD7C-4254-8EB3-B5F9CA63B24C}
+	EndGlobalSection
+EndGlobal
